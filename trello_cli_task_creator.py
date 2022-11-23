@@ -1,4 +1,7 @@
 #!/bin/python3
+# Script to create tasks in trello with offline mode
+# Copyright (C) 2022 Vasiliy Stephanov <baseoleph@gmail.com>
+
 import sys
 import requests
 import json
